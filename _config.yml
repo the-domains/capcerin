@@ -1,0 +1,14 @@
+layout_spectrum: 0.45970832952298224
+typography_spectrum: 0.5942761960905045
+color:
+  brandStrength: 0.7929129211697727
+  lightness: 0.2895837731193751
+  saturation: 0.36897134804166853
+  rhythmicContrast: 0.3837556734215468
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: capcerin
